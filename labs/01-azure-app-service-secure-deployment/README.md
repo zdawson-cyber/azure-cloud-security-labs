@@ -56,11 +56,11 @@ Live Web App URL
 
 ### Phase 2: Local Python App
 
-- [ ] Create a simple FastAPI application
-- [ ] Test the app locally
-- [ ] Confirm `/docs` loads successfully
-- [ ] Confirm `/health` endpoint works
-- [ ] Confirm `/security-summary` endpoint works
+- [x] Create a simple FastAPI application
+- [x] Test the app locally
+- [x] Confirm `/docs` loads successfully
+- [x] Confirm `/health` endpoint works
+- [x] Confirm `/security-summary` endpoint works
 
 ### Phase 3: Azure Deployment
 
