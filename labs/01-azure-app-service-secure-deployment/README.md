@@ -185,6 +185,8 @@ Planned reflection points:
 - How GitHub supports cloud project documentation and portfolio evidence
 - What screenshots and proof are useful for demonstrating hands-on Azure experience
 
+During deployment, I encountered an Azure App Service quota restriction for the Free F1 tier. The deployment error showed a current Free VMs limit of 0 and required 1 Free VM to create the App Service Plan. I reviewed Azure quotas, resource provider registration, regional quota behavior, and App Service pricing tiers as part of troubleshooting the deployment.
+
 ## Portfolio Summary
 
 This lab demonstrates hands-on Azure cloud deployment by preparing a Python FastAPI application for Azure App Service. The lab documents local testing, planned Azure deployment steps, security considerations, and evidence collection for a cybersecurity cloud security portfolio.
