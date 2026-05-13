@@ -12,7 +12,7 @@ This document reviews Azure role assignments and identifies least privilege reco
 
 | Scope Type | Scope Name | Reviewed |
 |---|---|---|
-| Subscription | Azure subscription | Yes |
+| Subscription | Azure subscription 1 | Yes |
 | Resource Group | rg-azure-security-labs | Yes |
 
 ## Role Assignment Review
