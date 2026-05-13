@@ -22,6 +22,7 @@ This document reviews Azure role assignments and identifies least privilege reco
 | Subscription | User | Owner | High | Owner has full control and can assign access to others. | Limit Owner access to only required administrators. |
 | Resource Group | User | Contributor | Medium/High | Contributor can create and modify resources but cannot assign roles. | Use only when resource management is required. |
 | Resource Group | User | Reader | Low | Reader can view resources but cannot make changes. | Appropriate for view-only access. |
+| Resource Group | User | Owner | High | Owner access is inherited from the subscription scope. | Review whether Owner access is required at the subscription level and limit high-privilege access where possible. |
 
 ## Least Privilege Findings
 
