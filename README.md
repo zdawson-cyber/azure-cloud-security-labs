@@ -1,4 +1,4 @@
-# Azure Cloud Security Labs
+lol# Azure Cloud Security Labs
 
 Hands-on Microsoft Azure cloud security labs focused on identity, access control, secure deployment, Key Vault, Defender for Cloud, monitoring, and Python-based cloud security automation.
 
@@ -25,7 +25,7 @@ The labs in this repository focus on real-world security concepts such as:
 |---|---|---|
 | 01 | Azure App Service Secure Deployment | Complete |
 | 02 | Azure RBAC Least Privilege Review | Complete |
-| 03 | Azure Key Vault Python Secrets | Planned |
+| 03 | Azure Key Vault Python Secrets | In Progress |
 | 04 | Defender for Cloud Recommendation Tracker | Planned |
 | 05 | Azure VM Security Baseline | Planned |
 | 06 | Azure Monitor and Application Insights | Planned |
