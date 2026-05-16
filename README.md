@@ -23,8 +23,8 @@ The labs in this repository focus on real-world security concepts such as:
 
 | Lab | Topic | Status |
 |---|---|---|
-| 01 | Azure App Service Secure Deployment | In Progress |
-| 02 | Azure RBAC Least Privilege Review | Planned |
+| 01 | Azure App Service Secure Deployment | Complete |
+| 02 | Azure RBAC Least Privilege Review | Complete |
 | 03 | Azure Key Vault Python Secrets | Planned |
 | 04 | Defender for Cloud Recommendation Tracker | Planned |
 | 05 | Azure VM Security Baseline | Planned |
